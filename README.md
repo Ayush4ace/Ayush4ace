@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Ayush4ace
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Ayush4ace/Ayush4ace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi, I am Ayush Maurya
+I am intrested in python devloper and machine learning jobs
+you can mail me at mauryaayush703@gmail.com or ayusbmaurya@gmail.com
